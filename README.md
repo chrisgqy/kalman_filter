@@ -1,2 +1,2 @@
-# kalman_filter
+# Kalman Filter
 Demo implementation of kalman filter
